@@ -163,7 +163,7 @@ server_choice:
   - search_bilibili
   - search_geo
   - search_github
-  - search_local
+  - search_file
   - search_movie
   - search_scholar
   - search_train 
